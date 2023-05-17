@@ -1,0 +1,10 @@
+C:\Users\Алина\source\repos\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Алина\source\repos\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Алина\source\repos\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Алина\source\repos\BattleShip\obj\Debug\BattleShip.MainForm.resources
